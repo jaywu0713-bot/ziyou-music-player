@@ -1,0 +1,1 @@
+import{D as e,j as t,k as n,v as r}from"./window-DoshTo5c.js";import{t as i}from"./desktop-lyrics-view-fbGddi6l.js";var a=t(n(),1),o=e(),s=r();(0,o.createRoot)(document.getElementById(`root`)).render((0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(i,{})}));
